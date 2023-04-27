@@ -1,0 +1,147 @@
+/* 弹性布局 */
+.df{
+    display: flex;
+}
+/* 弹性换行 */
+.fww{
+    flex-wrap: wrap;
+}
+/* 弹性不换行 */
+.fwn{
+    flex-wrap: nowrap;
+}
+/* 垂直弹性布局 */
+.fdc{
+    flex-direction: column;
+}
+/* 水平弹性布局 */
+.fdr{
+    flex-direction: row;
+}
+/* 侧轴居中对齐 */
+.aic{
+    align-items: center;
+}
+/* 主轴左对齐 */
+.jcc{
+    justify-content: center;
+}
+/* 侧轴左对齐 */
+.aifs{
+    align-items: flex-start;
+}
+/* 文字居中对齐 */
+.tac{
+    text-align: center;
+}
+/* 弹性两边对齐 */
+.jcsb{
+    justify-content: space-between;
+}
+/* 弹性环绕布局 */
+.jcsa{
+    justify-content: space-around;
+}
+/* 字体14号 */
+.fs14{
+    font-size: 14px;
+}
+/* 字体20号 */
+.fs20{
+    font-size: 20px;
+}
+/* 字体24号 */
+.fs24{
+    font-size: 24px;
+}
+.fwb{
+    font-weight: bold;
+}
+.p10{
+    padding: 10px;
+}
+.pl10{
+    padding-left: 10px;
+}
+.pr10{
+    padding-right: 10px;
+}
+.pt10{
+    padding-top: 10px;
+}
+.pb10{
+    padding-bottom: 10px;
+}
+.p20{
+    padding: 20px;
+}
+.pl20{
+    padding-left: 20px;
+}
+.pr20{
+    padding-right: 20px;
+}
+.pt20{
+    padding-top: 20px;
+}
+.pb20{
+    padding-bottom: 20px;
+}
+.m10{
+   margin: 10px;
+}
+.ml10{
+    margin-left: 10px;
+}
+.mr10{
+   margin-right: 10px;
+}
+.mt10{
+   margin-top: 10px;
+}
+.mb10{
+   margin-bottom: 10px;
+}
+.m20{
+    margin: 20px;
+ }
+ .ml20{
+     margin-left: 20px;
+ }
+ .mr20{
+    margin-right: 20px;
+ }
+ .mt20{
+    margin-top: 20px;
+ }
+ .mb20{
+    margin-bottom: 20px;
+ }
+ 
+ .p0{
+    padding: 0 !important;
+ }
+ .m0{
+    margin: 0 !important;
+ }
+ .m5{
+    margin: 5px;
+ }
+ .ml5{
+     margin-left: 5px;
+ }
+ .mr5{
+    margin-right: 5px;
+ }
+ .mt5{
+    margin-top: 5px;
+ }
+ .mb5{
+    margin-bottom: 5px;
+ }
+ .w100{
+    width: 100%;
+ }
+ .h100{
+    height: 100%;
+ }
